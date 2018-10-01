@@ -1,0 +1,166 @@
+.bai1 {
+	margin: 0 auto;
+	width: 1000px;
+	height: 700px;
+	background-image: url(https://tophinhnen.com/wp-content/uploads/2018/01/hinh-nen-may-tinh-dep-nhat-5.jpg);
+}
+.bai1 h3{
+	display: block;
+	margin: 0;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 30px;
+}
+.bai1 .signin{
+	margin: 0 50px;
+	float: left;
+	width: 400px;
+	height: 350px;
+	background: gray;
+	opacity: 0.8;
+}
+.bai1 .signup{
+	margin: 0 500px;
+	width: 400px;
+	height: 500px;
+	background: gray;
+	opacity: 0.8;
+}
+.signup .form1{
+	margin: 10px;
+	float: left;
+	width: 250px;
+	height: 200px;
+}
+.form input{
+	margin: 0;
+	margin-bottom: 30px;
+	float: left;
+	display: block;
+	width:100%;
+	height: 25px;
+	padding: 5px;
+	border: 2px solid white;
+	background: white;
+}
+.form input:focus{
+	color: white;
+	background: gray;
+}
+.form input.USERNAME{
+	background-position:right 8px top 7px;
+	/*background-position: right;-icons nằm bên trái*/
+	background-image: url(https://image.flaticon.com/icons/svg/747/747376.svg);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+}
+.form input.Password{
+	background-position:right 8px top 7px;
+	/*background-position: right;-icons nằm bên trái*/
+	background-image: url(https://image.flaticon.com/icons/svg/149/149465.svg);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+}
+.form input.in{
+	margin: 0 auto;
+	margin-top: 15px;
+	width: 120px;
+	height: 30px;
+	padding: 5px ;
+	border-radius: 3px;
+	background: green;
+	border: 0px;
+	color: white;
+}
+.form input.RESET{
+	margin: 0 auto;
+	margin: 15px 0 0 10px;
+	width: 120px;
+	height: 30px;
+	padding: 5px ;
+	border-radius: 3px;
+	background: red;
+	border: 0px;
+	color: white;
+}
+.signin h4{
+	display: block;
+    margin: 0;
+    float: left;
+    font-size: 25px;
+    color: white;
+    padding: 25px 120px;
+}
+.signup h4{
+	display: block;
+    margin: 0;
+    float: left;
+    font-size: 25px;
+    color: white;
+    padding: 25px 120px;
+}
+.signin .form{
+	margin: 0 40px;
+	float: left;
+	width: 250px;
+	height: 200px;
+}
+.form1 input{
+	margin: 0;
+	margin-bottom: 30px;
+	float: left;
+	display: block;
+	width: 250px;
+	height: 25px;
+	padding: 5px;
+	border: 2px solid white;
+	background: white;
+}
+.form1 input:focus{
+	color: white;
+	background: gray;
+}
+.form1 input.USERNAME{
+	background-position:right 8px top 7px;
+	/*background-position: right;-icons nằm bên trái*/
+	background-image: url(https://image.flaticon.com/icons/svg/747/747376.svg);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+}
+.form1 input.PHONE{
+	background-position:right 8px top 7px;
+	/*background-position: right;-icons nằm bên trái*/
+	background-image: url(https://image.flaticon.com/icons/svg/1034/1034131.svg);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+}
+.form1 input.Email{
+	background-position:right 8px top 7px;
+	/*background-position: right;-icons nằm bên trái*/
+	background-image: url(https://image.flaticon.com/icons/svg/131/131155.svg);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+}
+.form1 input.Password{
+	background-position:right 8px top 7px;
+	/*background-position: right;-icons nằm bên trái*/
+	background-image: url(https://image.flaticon.com/icons/svg/149/149465.svg);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+}
+
+.form1 input.reset{
+	margin: 0 auto;
+	margin: 15px 0 0 10px;
+	width: 250px;
+	height: 30px;
+	padding: 5px ;
+	border-radius: 3px;
+	background: green;
+	border: 0px;
+	color: white;
+}
+
+

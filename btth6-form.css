@@ -1,0 +1,136 @@
+.bai6 {
+	margin: 0 auto;
+	width: 1000px;
+	height: 500px;
+	background:gray;
+}
+.bai6 .sign{
+	margin: 0;
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+.sign .h3{
+	margin: 0;
+	float: left;
+	width: 100%;
+	height: 80px;
+	background: #1874CD;
+}
+.h3 h3{
+	margin: 0;
+	float: left;
+	display: block;
+	font-size: 30px;
+	color: white;
+	padding:20px 110px;
+}
+.form input{
+	margin:50px 30px 0 35px;
+	padding-left: 30px;
+	float: left;
+	display: block;
+	width:80%;
+	height: 30px;
+	border: 2px solid white;
+	background: white;
+	border-radius: 5px;
+	border: 0;
+}
+.form input.submit{
+	margin: 50px 35px;
+	float: left;
+	width: 430px;
+	height: 40px;
+	background: #00BFFF;
+	color: white;
+}
+.form a{
+	margin: 0;
+	margin-right: 30px;
+	float: right;
+	color:white;
+	text-decoration: none;
+}
+.form a:hover{
+	color: red;
+}
+.bai6 .login{
+	float: left;
+	margin: 0;
+	width: 50%;
+	height: 100%;
+	background: pink;
+}
+.login .h4{
+	margin: 10px 0px;
+	float: left;
+	width: 100%;
+	height: 50px;
+	background: #66CD00;
+}
+.h4 h4{
+	margin: 0;
+	float: left;
+	display: block;
+	font-size: 30px;
+	color: white;
+	padding:10px 130px;
+}
+.login .form1 input{
+	margin:30px;
+	padding-left: 30px;
+	float: left;
+	display: block;
+	width:80%;
+	height: 30px;
+	border: 2px solid white;
+	background: white;
+	border-radius: 5px;
+	border: 0;
+}
+.form1 input.Username{
+	background-position: 5px;
+	background-image: url(https://image.flaticon.com/icons/png/512/747/747545.png);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+}
+.form1 input.Password{
+	background-position: 5px;
+	background-image: url(https://image.flaticon.com/icons/svg/301/301190.svg);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+}
+.form1 input.T{
+	margin: 0 0 0 35px;
+	float: left;
+	width: 20px;
+	height: 20px;
+}
+.form1 form h5{
+	float: left;
+	margin: 0;
+	font-size: 20px;
+	color: gray;
+}
+.form1 a{
+	margin: 0 20px;
+	float: left;
+	color:#00BFFF;
+	font-size: 20px;
+	padding: 0 10px;
+	border-left:3px dotted gray ;
+}
+.form1 a:hover{
+	color: red;
+}
+
+.form1 input.sub{
+	margin: 50px 150px;
+	float: left;
+	width: 200px;
+	height: 40px;
+	background: #66CD00;
+	color: white;
+	padding: 10px;
+}
